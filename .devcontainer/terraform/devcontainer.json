@@ -1,0 +1,4 @@
+{
+    "name": "Dev Container with Terraform",
+    "image": "hashicorp/terraform:1.13.5"
+}

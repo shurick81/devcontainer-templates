@@ -1,0 +1,2 @@
+tests:
+  - run: ./test/az-cli/execute-test.sh

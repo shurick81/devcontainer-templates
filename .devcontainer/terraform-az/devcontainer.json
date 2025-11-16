@@ -1,0 +1,6 @@
+{
+    "name": "Dev Container with Terraform and Azure CLI",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
