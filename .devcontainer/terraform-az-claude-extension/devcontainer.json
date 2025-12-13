@@ -1,0 +1,13 @@
+{
+    "name": "Dev Container with Terraform, Azure CLI and Claude Code Extension",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "anthropic.claude-code"
+            ]
+        }
+    }
+}
