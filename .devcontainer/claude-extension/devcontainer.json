@@ -1,8 +1,6 @@
 {
-  "name": "Dev Container with Terraform, Azure CLI and Claude Code Extension",
-  "build": {
-    "dockerfile": "Dockerfile"
-  },
+  "name": "Dev Container with Claude Code Extension",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:debian",
   "customizations": {
     "vscode": {
       "extensions": [
