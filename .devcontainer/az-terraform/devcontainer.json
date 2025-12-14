@@ -1,6 +1,6 @@
 {
-    "name": "Dev Container with Azure CLI and Terraform",
-    "build": {
-        "dockerfile": "Dockerfile"
-    }
+  "name": "Dev Container with Azure CLI and Terraform",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
 }

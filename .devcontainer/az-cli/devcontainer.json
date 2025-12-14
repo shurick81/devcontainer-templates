@@ -1,6 +1,6 @@
 {
-    "name": "Dev Container with Azure CLI",
-    "build": {
-        "dockerfile": "Dockerfile"
-    }
+  "name": "Dev Container with Azure CLI",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
 }
